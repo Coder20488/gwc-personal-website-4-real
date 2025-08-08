@@ -1,12 +1,20 @@
 /* STYLE SECTIONING TAGS */
 body {
- background-color: #f2f8f8; 
+ background-color: ##FAF9F6; 
 }
 
 /* STYLE TEXT */
-
+header {
+  color: #A950A1; 
+}
 h1 {
-  color: navy;
+  color:#A950A1; 
+}
+p {
+  color: #2D1E2F;
+}
+main{
+  color: #A950A1;
 }
 
 /* STYLE IMAGES */
