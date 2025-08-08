@@ -6,6 +6,7 @@
 
 body {
  background-color: #FAF9F6; 
+  text-align: center;
 }
 
 /* STYLE TEXT */
@@ -38,6 +39,7 @@ img{
   margin-top: 2em
   
   
+  
 }
 nav{
   text-align: center;
@@ -45,10 +47,30 @@ nav{
 .special{
   text-shadow:  4px 4px 12px rgb(192, 108, 132, 0.3);
 }
-.interestpic:hover{
-  box-shadow: 0 0 15px rgba(192, 108, 132, 0.9);
+#interestpic:hover{
+  box-shadow: 0 0 12px rgba(192, 108, 132, 0.9);
   transition: box-shadow 0.3s ease;
 }
+ul{
+  list-style-type: none;
+  background-color: #F7CAC9;
+  /* I want to keep my links as buttons instead of a nav bar */
+  padding: 1em;
+}
+li{
+  display: inline;
+}
+li a {
+  text-decoration: none;
+  color: #333333
+  padding: 1em;
+  font-size:1.3em;
+  margin-left: 6px;
+}
+li a:hover {
+  background-color: #EC8CA9
+}
+
 
 
 /* STYLE IMAGES */
