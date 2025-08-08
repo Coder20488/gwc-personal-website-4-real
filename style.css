@@ -8,14 +8,25 @@ header {
   color: #A950A1; 
 }
 h1 {
+  font-family: 'Playfair Display', serif;
   color:#A950A1; 
+  text-align: center;
 }
 p {
   color: #2D1E2F;
   font-family: 'Merriweather', sans-serif;
+  text-align:center;
 }
 main{
   color: #A950A1;
+}
+img{
+  max-width: 240px;
+  max-height: 240px;
+  border-radius:50%;
+  border: 5px solid #FAD4E3;
+  text-align: center;
+  
 }
 
 
