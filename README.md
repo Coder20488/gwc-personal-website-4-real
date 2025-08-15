@@ -28,12 +28,13 @@ You can extend your project further by:
 - Portfolio Header Background Code Image from Pixabay [Image Link](https://pixabay.com/vectors/background-the-background-1086840/)
 
 ---
+---MY README--:
+This is my personal website project, I made it as a way to improve my html and css skills. I already knew a bit of html and css but it had been a while since I last used them and I wanted to refresh my memory. I made my project using the gwc we development tutorials. I struggled with many syntax errors and learned that if something that I had programmed wasn't showing up on my website, I need to look through my code very carefully for syntax errors and problems get fixed 99 percent of the time!
 
 ## File Overview
 
-### ← README.md
+### ← README.me
 
-That's this file. This is the place to tell people more about what your website does and how you built it. 
 
 ### ← index.html
 
