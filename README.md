@@ -30,6 +30,7 @@ You can extend your project further by:
 ---
 ---MY README--:
 This is my personal website project, I made it as a way to improve my html and css skills. I already knew a bit of html and css but it had been a while since I last used them and I wanted to refresh my memory. I made my project using the gwc we development tutorials. I struggled with many syntax errors and learned that if something that I had programmed wasn't showing up on my website, I need to look through my code very carefully for syntax errors and problems get fixed 99 percent of the time!
+Athen award link: [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 
 ## File Overview
 
